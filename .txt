@@ -1,1 +1,9 @@
 hello!
+these are some notes
+
+links for me ***
+
+https://cloudinary.com/
+https://account.mongodb.com/
+
+
